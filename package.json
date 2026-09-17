@@ -1,0 +1,8 @@
+{
+  "name": "daniil-kulbachnyi-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "bash scripts/build.sh"
+  }
+}
